@@ -1,2 +1,3 @@
-\env
+env/*
+/Pong/source/__pycache__/*
 
